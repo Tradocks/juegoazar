@@ -1,0 +1,102 @@
+/* 
+    Created on : 13-Feb-2017, 08:18:41
+    Author     : Juan Pablo Lagos
+*/
+h1
+{
+   text-align: center;
+   color: white;
+   background-color: tomato;
+}
+body
+{
+    background-color: #ff9966;
+    font-family: "Tahoma";
+    font-size: 12pt;
+}
+#divImg, #divMsg
+{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+#divImg{
+    border: 2px black solid;
+    border-radius: 5px;
+}
+h2
+{
+    text-align: center;
+    font-style: italic;    
+}
+nav
+{
+    text-align: center;
+}
+a
+{
+    display: inline-block;
+    width: 130px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    border: 2px silver solid;
+    border-radius: 50px 50px 50px 50px;
+    box-shadow: 3px 3px 4px black;
+    line-height: 50px;
+        
+}
+
+img
+{
+   margin:10px;
+    border-radius: 30px; 
+   
+}
+table
+{
+    width: 80%;
+    border-collapse: collapse;
+    margin: auto;
+}
+th
+{
+    background-color: tomato;
+    color: white;
+}
+
+a:hover
+{
+ color: crimson;   
+}
+
+#frmpedido
+{
+    width: 80%;
+    border: 4px black solid;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px;
+    background-color: burlywood;
+}
+
+label
+{
+    display: inline-block;
+    width: 130px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+entradas
+{
+    border: 1px coral solid;
+    margin: 10px;
+}
+
+entradas focus
+{
+    background-color: sienna;
+}
